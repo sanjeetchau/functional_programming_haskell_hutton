@@ -5,3 +5,6 @@ playlist: <url>https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrE
 
 - need to figure out how to add all the obsidian notes and anki flashcards along with the code from the tutorial
 - need to finish the course
+
+### overall goal with the course:
+####    be able to think/prorgam in a completely different way than I have in the past
