@@ -7,4 +7,4 @@ playlist: <url>https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrE
 - need to finish the course
 
 ### overall goal with the course:
-####    be able to think/progam in a completely different way than I have in the past
+####    be able to think/program in a completely different way than I have in the past
