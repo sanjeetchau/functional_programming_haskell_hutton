@@ -8,3 +8,4 @@ playlist: <url>https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrE
 
 ### overall goal with the course:
 ####    be able to think/program in a completely different way than I have in the past
+####    get used to functional programming, want to learn erlang/elixir later, could be useful there
