@@ -2,15 +2,14 @@
 --show using your definition that product [2,3,4] = 24
 module Main where
 
-{-
-product :: Num [a] => [a] -> a
-product [] = 1
-product (x:xs) = x * remaining
- where
-  remaining = [a | a <- xs, a /= x]
--}
+
+produt :: [Int] -> Int --don't know why ' :: Num [a] => [a] -> a' causes compile error'
+produt [] = 1
+produt (x:xs) = x * produt xs
+
 
 main :: IO ()
 main = do
- let result = product [2,3,4]
+ let numbers = [2,3,4]
+ let result = produt numbers
  putStrLn("product of [2,3,4] is " ++ show result)
