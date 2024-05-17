@@ -1,2 +1,6 @@
 Hutton, Graham - Programming in Haskell-Cambridge University Press (2018_2015).epub
 democode*
+testcode*
+*.exe
+*.o
+*.hi
